@@ -1,6 +1,6 @@
 # ✋ HandiFun: Gestured-Based 3D Shape Manipulation
 ## Interactive Learning through Real-Time Control
-
+![HandiFun Project Banner](HandiFun.PNG)
 ### **Project Goal**
 HandiFun is an innovative application designed to enhance interactive and kinesthetic learning experiences. It allows users to manipulate **complex 3D geometric shapes** in a virtual environment using only **hand gestures**.
 
@@ -12,3 +12,4 @@ HandiFun is an innovative application designed to enhance interactive and kinest
 ### **Technology Stack**
 * **Core Technology:** MediaPipe, Three.js,
 * **Languages:** Python, CSS, JavaScript
+
